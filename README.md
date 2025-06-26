@@ -4,7 +4,7 @@
 This interactive Power BI dashboard provides a comprehensive analysis of Amazon marketplace sales. 
 It is designed for business stakeholders to gain insights into sales performance, customer behavior, and product trends.
 
- ⚠️ **Note:** The original `.csv` dataset could not be uploaded directly due to its large size. 
+ ⚠️ **Note:** The original `.csv`("Amazon Sale Report.csv" :- Kaggel) dataset could not be uploaded directly due to its large size. 
  Instead, all relevant data has been imported and modeled directly in the `.pbix` file.
 
  🧱 File Information
